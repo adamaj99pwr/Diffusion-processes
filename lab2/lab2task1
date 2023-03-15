@@ -1,4 +1,4 @@
-graph graph1 {
+graph lab2task1 {
 	Alice -- Bob;
 	Alice -- Carl;
 	Alice -- David;

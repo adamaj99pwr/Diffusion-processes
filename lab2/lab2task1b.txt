@@ -1,0 +1,5 @@
+graph graph2 {
+	a -- b [label=0.5];
+	b -- c [label=0.25];
+	b -- d [label=0.25];
+}
