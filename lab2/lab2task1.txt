@@ -6,11 +6,11 @@ graph graph1 {
 	Alice -- Frank;
 	Bob -- Gail;
 	Gail -- Harry;
-	Harry -- Jane;
-	Jane -- Gail;
+	Harry -- Jen;
+	Jen -- Gail;
 	Harry -- Irene;
 	Irene -- Gail;
-	Irene -- Jane;
+	Irene -- Jen;
 	Ernst -- Frank;
 	David -- Carl;
 	Carl -- Frank;

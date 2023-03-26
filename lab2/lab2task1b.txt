@@ -1,5 +1,6 @@
 graph graph2 {
-	a -- b [label=0.5];
-	b -- c [label=0.25];
-	b -- d [label=0.25];
+	a1 -- b [label=0.5];
+	a2 -- b [label=0.2];
+	b -- c [label=0.4];
+	b -- d [label=0.4];
 }
